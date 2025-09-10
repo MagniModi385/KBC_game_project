@@ -90,7 +90,7 @@ class KBC2_0 {
       System.out.println(":::::::::::::::::::");
       System.out.println("5)There are lifelines availaible in case you get stuck");
       System.out.println(":::::::::::::::::::");
-      System.out.println("6)Please do not ask for MONEY as the creator of this game is jobless");
+      System.out.println("6)Please do not ask for MONEY as the creator of this game is unemployed");
       System.out.println("::::::::::::::::::::");
       System.out.println("Press any key to continue");
       String del=sc.next();
